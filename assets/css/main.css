@@ -91,6 +91,18 @@ a:after {
 border-width: 0 0 0px;
 border-bottom-width: 0px;
 }
+
+nav {
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    margin: 0 15%;
+    color: #fff;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
 /* ================== BASIC CONFIGURATION ================== */
 
 .spacing i {
