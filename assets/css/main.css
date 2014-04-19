@@ -92,7 +92,7 @@ border-width: 0 0 0px;
 border-bottom-width: 0px;
 }
 
-nav {
+.nav {
     border-top: 0px solid #fff;
     border-bottom: 0px solid #fff;
     margin: 0 15%;
@@ -100,7 +100,7 @@ nav {
     text-align: center;
 }
 
-nav ul li {
+.nav ul li {
     display: inline-block;
     text-align: center;
 }
