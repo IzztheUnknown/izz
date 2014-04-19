@@ -92,6 +92,8 @@ border-width: 0 0 0px;
 border-bottom-width: 0px;
 }
 
+.center-pills { display: inline-block; }
+
 /* ================== BASIC CONFIGURATION ================== */
 
 .spacing i {
