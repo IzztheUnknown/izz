@@ -97,10 +97,12 @@ nav {
     border-bottom: 0px solid #fff;
     margin: 0 15%;
     color: #fff;
+    text-align: center;
 }
 
 nav ul li {
     display: inline-block;
+    text-align: center;
 }
 
 /* ================== BASIC CONFIGURATION ================== */
